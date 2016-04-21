@@ -1,0 +1,6 @@
+*.suo
+*.obj
+*.log
+*.pch
+*.tlog
+*.pdb
